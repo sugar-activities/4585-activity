@@ -1,0 +1,10 @@
+[Activity]
+name = Amazonas Tortuga
+activity_version = 2
+license = MIT
+bundle_id = org.sugarlabs.AmazonasTortuga
+exec = sugar-activity AmazonasTortugaActivity.AmazonasTortugaActivity
+icon = activity-turtleart
+show_launcher = yes
+update_url = http://wiki.laptop.org/go/Activities/G1G1
+mime_types = application/x-turtle-art
